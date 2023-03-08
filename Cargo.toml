@@ -1,5 +1,5 @@
 [package]
-name = "getting_started"
+name = "rust_chat_app"
 version = "0.1.0"
 edition = "2021"
 

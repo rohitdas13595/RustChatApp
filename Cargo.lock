@@ -391,14 +391,6 @@ dependencies = [
 ]
 
 [[package]]
-name = "getting_started"
-version = "0.1.0"
-dependencies = [
- "rand",
- "rocket",
-]
-
-[[package]]
 name = "ghash"
 version = "0.5.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"
@@ -1014,6 +1006,14 @@ dependencies = [
  "tokio",
  "tokio-rustls",
  "uncased",
+]
+
+[[package]]
+name = "rust_chat_app"
+version = "0.1.0"
+dependencies = [
+ "rand",
+ "rocket",
 ]
 
 [[package]]
